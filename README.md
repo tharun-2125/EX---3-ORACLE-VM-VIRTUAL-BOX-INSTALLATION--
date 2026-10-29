@@ -135,7 +135,8 @@ Step 19: Login to Kali Linux
 2. Log in using the root account and the password you set earlier.
 ```
 # EXPECTED OUTPUT
-<img width="1228" height="651" alt="image" src="https://github.com/user-attachments/assets/86d1d436-3614-4c0b-ab45-b0b2d37940b6" />
+<img width="1915" height="1140" alt="image" src="https://github.com/user-attachments/assets/929fc80b-86aa-4d7a-b540-9b06e35e5d67" />
+
 
 .sh method
 # PROGRAM
